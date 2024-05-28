@@ -21,13 +21,11 @@ if(!$_SESSION['usuario']) {
 </head>
 <body class="exercicio">
     <header class="cabecalho">
-        <h1>Curso PHP</h1>
+        <h1>Projetos PHP</h1>
         <h2>Visualização do Exercício</h2>
     </header>
     <nav class="navegacao">
         <span class="usuario">Usuário: <?= $_SESSION['usuario'] ?></span>
-        <a href=<?= "/{$_GET['dir']}/{$_GET['file']}.php" ?> 
-            class="verde">Sem formatação</a>
         <a href="index.php">Voltar</a>
         <a href="logout.php" class="vermelho">Sair</a>
     </nav>
@@ -38,8 +36,5 @@ if(!$_SESSION['usuario']) {
             ?>
         </div>
     </main>
-    <footer class="rodape">
-        COD3R & ALUNOS © <?= date('Y'); ?>
-    </footer>
 </body>
 </html>

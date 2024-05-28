@@ -1,5 +1,5 @@
 <nav class="modulos">
-    <div class="modulo vermelho">
+    <div class="modulo">
         <h3>12. Sessão</h3>
         <ul>
             <li>
@@ -14,7 +14,7 @@
             </li>
         </ul>
     </div>
-    <div class="modulo verde">
+    <div class="modulo">
         <h3>11. Trat. de Erro</h3>
         <ul>
             <li>
@@ -39,7 +39,7 @@
             </li>
         </ul>
     </div>
-    <div class="modulo laranja-escuro">
+    <div class="modulo">
         <h3>10. Namespace</h3>
         <ul>
             <li>
@@ -59,7 +59,7 @@
             </li>
         </ul>
     </div>
-    <div class="modulo roxo-escuro">
+    <div class="modulo">
         <h3>9. Includes</h3>
         <ul>
             <li>
@@ -94,7 +94,7 @@
             </li>
         </ul>
     </div>
-    <div class="modulo azul-escuro">
+    <div class="modulo">
         <h3>8. Paradigma O.O.</h3>
         <ul>
             <li>
@@ -169,7 +169,7 @@
             </li>
         </ul>
     </div>
-    <div class="modulo vermelho-escuro">
+    <div class="modulo">
         <h3>7. Funções</h3>
         <ul>
             <li>
@@ -234,7 +234,7 @@
             </li>
         </ul>
     </div>
-    <div class="modulo verde-escuro">
+    <div class="modulo">
         <h3>6. Repetições</h3>
         <ul>
             <li>
@@ -279,7 +279,7 @@
             </li>
         </ul>
     </div>
-    <div class="modulo laranja">
+    <div class="modulo">
         <h3>5. Array</h3>
         <ul>
             <li>
@@ -339,7 +339,7 @@
             </li>
         </ul>
     </div>
-    <div class="modulo roxo">
+    <div class="modulo">
         <h3>4. Controle</h3>
         <ul>
             <li>
@@ -384,7 +384,7 @@
             </li>
         </ul>
     </div>
-    <div class="modulo azul">
+    <div class="modulo">
         <h3>3. Variáveis</h3>
         <ul>
             <li>
@@ -429,7 +429,7 @@
             </li>
         </ul>
     </div>
-    <div class="modulo vermelho">
+    <div class="modulo">
         <h3>2. Tipos</h3>
         <ul>
             <li>
@@ -474,7 +474,7 @@
             </li>
         </ul>
     </div>
-    <div class="modulo verde">
+    <div class="modulo">
         <h3>1. Básico</h3>
         <ul>
             <li>

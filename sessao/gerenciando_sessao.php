@@ -1,7 +1,6 @@
 <div class="titulo">Gerenciando Sessão</div>
 
 <?php
-// session_id('bf1ttq6eujqi7i2fn4rbtujgi6');
 session_start();
 echo session_id();
 

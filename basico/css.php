@@ -1,4 +1,4 @@
-<div class="titulo">Integração CSS</div>
+ <div class="titulo">Integração CSS</div>
 
 <h1 center>
 <?php 
